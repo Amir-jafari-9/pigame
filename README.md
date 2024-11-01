@@ -1,0 +1,3 @@
+this is a fun game about dice rolling and chances...
+this is a screenshot of the game itself
+![celluloid-shot0002](https://github.com/user-attachments/assets/ae64bc6d-1c4b-4e28-a892-d773bc29f5e4)
